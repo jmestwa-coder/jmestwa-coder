@@ -4,9 +4,15 @@
 
 # 🔐 Jmestwa
 
-### Security Engineer • Vulnerability Researcher • Open Source Contributor
+### Security Engineer @ DigiScrypt • Vulnerability Researcher • OSS Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;Code+Auditor;Finding+Root+Causes;Building+Reliable+Software"/>
+<p align="center">
+<a href="https://digiscrypt.com/">
+<img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
+</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;Code+Auditor;Building+Reliable+Software" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=jmestwa-coder&label=Profile%20Views&color=0e75b6&style=flat" />
