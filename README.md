@@ -10,6 +10,8 @@
 <a href="https://digiscrypt.com/">
 <img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
 </a>
+
+<img src="https://img.shields.io/badge/👥%20CODEOPS47-Team-7c3aed?style=for-the-badge" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;Code+Auditor;Building+Reliable+Software" />
